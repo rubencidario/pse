@@ -96,6 +96,7 @@ maison-du-vin/
 ## 🖼️ Imagens Utilizadas
 
 O website utiliza imagens reais da loja e vinhos:
+- **IMG_2309.JPEG**: Fundo do Hero Section (tela inicial)
 - **IMG_2302.JPG**: Cartão de Convite MAISON DU VIN (Seção "Sobre")
 - **IMG_2303.JPG**: Château Margaux 2015 (Primeiro vinho)
 - **IMG_2304.JPG**: Dom Pérignon 2012 (Segundo vinho)
@@ -104,11 +105,13 @@ O website utiliza imagens reais da loja e vinhos:
 ## 🎨 Fundo Elegante do Hero Section
 
 O hero section agora apresenta:
-- **Gradiente Sofisticado**: Transição suave entre tons escuros e a cor #590f10
-- **Padrões Animados**: Elementos visuais que se movem suavemente
+- **Layout Dividido**: Texto à esquerda e imagem à direita
+- **Imagem Otimizada**: IMG_2309.JPEG em tamanho menor para melhor qualidade
+- **Gradiente de Fundo**: Transição suave entre tons escuros e a cor #590f10
 - **Efeitos de Luz**: Título com brilho dourado animado
 - **Bolhas Decorativas**: Elementos flutuantes com a cor do vinho
-- **Overlay Elegante**: Camada de transparência para melhor legibilidade
+- **Hover na Imagem**: Efeito de elevação e zoom suave
+- **Design Responsivo**: Adaptação perfeita para mobile (imagem abaixo do texto)
 
 ## 🏢 Layout Reestruturado
 

@@ -168,7 +168,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }, observerOptions);
 
     // Observe elements for animation
-    const animateElements = document.querySelectorAll('.wine-card, .feature, .contact-card, .contact-form, .invitation-card');
+    const animateElements = document.querySelectorAll('.wine-card, .feature, .contact-card, .contact-form, .invitation-card, .hero-image');
     animateElements.forEach(el => {
         el.style.opacity = '0';
         el.style.transform = 'translateY(30px)';
@@ -199,18 +199,6 @@ document.addEventListener('DOMContentLoaded', function() {
             document.body.style.opacity = '1';
         }, 100);
     });
-});
-
-// Parallax effect for hero section with pattern background
-window.addEventListener('scroll', function() {
-    const scrolled = window.pageYOffset;
-    const hero = document.querySelector('.hero');
-    const winePattern = document.querySelector('.wine-pattern');
-    
-    if (hero && winePattern) {
-        const rate = scrolled * 0.3;
-        winePattern.style.transform = `translateY(${rate}px)`;
-    }
 });
 
 // Add some wine-related animations with new color scheme
