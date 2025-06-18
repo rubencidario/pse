@@ -29,12 +29,12 @@ Este é um website de página única (Single Page Application) desenvolvido com 
 
 ## 🍇 Vinhos Apresentados
 
-- **Château Margaux 2015** (Bordeaux, França) - €850
-- **Dom Pérignon 2012** (Champagne, França) - €180
-- **Château d'Esclans 2020** (Provence, França) - €95
-- **Opus One 2018** (Napa Valley, EUA) - €420
-- **Château d'Yquem 2015** (Sauternes, França) - €650
-- **Sassicaia 2019** (Toscana, Itália) - €380
+- **Château Margaux 2015** (Bordeaux, França) - CVE 95.000
+- **Dom Pérignon 2012** (Champagne, França) - CVE 20.000
+- **Château d'Esclans 2020** (Provence, França) - CVE 10.500
+- **Opus One 2018** (Napa Valley, EUA) - CVE 46.000
+- **Château d'Yquem 2015** (Sauternes, França) - CVE 71.000
+- **Sassicaia 2019** (Toscana, Itália) - CVE 41.500
 
 ## 🛠️ Tecnologias Utilizadas
 
