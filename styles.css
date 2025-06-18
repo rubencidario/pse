@@ -654,6 +654,10 @@ body {
         height: 400px;
     }
     
+    .wine-image {
+        height: 350px;
+    }
+    
     .wines-grid {
         grid-template-columns: 1fr;
     }
@@ -703,6 +707,10 @@ body {
     .hero-image {
         max-width: 250px;
         height: 350px;
+    }
+    
+    .wine-image {
+        height: 400px;
     }
     
     .wine-card {
