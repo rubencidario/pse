@@ -276,8 +276,10 @@ body {
 .wine-image img {
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    object-fit: contain;
+    object-position: center;
     transition: transform 0.3s ease;
+    background: #f8f9fa;
 }
 
 .wine-card:hover .wine-image img {
