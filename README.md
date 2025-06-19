@@ -100,6 +100,9 @@ O website utiliza imagens reais da loja e vinhos:
 - **IMG_2302.JPG**: Cartão de Convite MAISON DU VIN (Seção "Sobre")
 - **IMG_2303.JPG**: Château Margaux 2015 (Primeiro vinho)
 - **IMG_2304.JPG**: Dom Pérignon 2012 (Segundo vinho)
+- **IMG_2400.jpg**: Château d'Esclans 2020 (Terceiro vinho)
+- **IMG_2402.jpg**: Opus One 2018 (Quarto vinho)
+- **IMG_2408.jpg**: Château d'Yquem 2015 (Quinto vinho)
 - **IMG_2305.JPG**: Foto da Loja MAISON DU VIN (disponível)
 
 ## 🎨 Fundo Elegante do Hero Section
